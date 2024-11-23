@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    // templates: see vscode/package.json
+    // https://github.com/microsoft/vscode/issues/109234#issuecomment-719702107
+    "configurations": [
+        {
+            "name": "DAP",
+            "type": "dap",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/lib/${workspaceFolderBasename}.ini",
+            "showDevDebugOutput": "raw",
+        }
+    ]
+}
