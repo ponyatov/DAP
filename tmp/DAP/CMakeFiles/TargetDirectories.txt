@@ -1,3 +1,0 @@
-/home/dponyatov/DAP/tmp/DAP/CMakeFiles/DAP.dir
-/home/dponyatov/DAP/tmp/DAP/CMakeFiles/edit_cache.dir
-/home/dponyatov/DAP/tmp/DAP/CMakeFiles/rebuild_cache.dir
